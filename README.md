@@ -27,8 +27,9 @@
 
 ### I am...
 
-- 🌱 서울과학기술대학교 IT&Management 전공 **`군휴학`**
+- 🌱 서울과학기술대학교 IT&Management 전공
 - 🎿 서울과학기술대학교 **`SKI TEAM`**
+- 😎 SW 마에스트로 14기 연수생
 
 ### I did...
 
@@ -37,12 +38,18 @@
 - 한국대학스키연맹🎿 73대 **`회계팀 임원`**
 - 서울과학기술대학교 SKI TEAM🎿 **`주장`**
 - 통신소대 🖥 **`전산병`**
+- GDSC Solution Challenge 백엔드 개발 참여
+- 군 장병 공개SW 해커톤 육군참모총장상 수상
+- 제 2작전 사령부 군 작전지역 대시보드 여단장 표창장 수상
+
 
 ### I did for my career...
 
 - for CS and Algorithm stydy - [꿈꾸는 개발자의 꿈들](https://hwanywillbe.tistory.com/)
 - for Sharing Posting - [Posting-StudyGroup](https://github.com/posting-study/Hwany_Posting)
 - serving in the Military - [군부대 작전지역 Dashboard](https://hwanywillbe.tistory.com/125?category=888678)
+- Open Source Hackathon - [군장병공개SW 해커톤](https://github.com/osamhack2022-v2/CLOUD_APP_IOT_KeepYourEndeavor_Moment)
+- GDSC Solution Challenge - [비대면 AI 감독관 스터디 플랫폼](https://github.com/S-gether)
 
 
 
