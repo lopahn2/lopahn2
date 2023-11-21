@@ -79,7 +79,7 @@
 - Open Source Hackathon - [군장병공개SW 해커톤](https://github.com/osamhack2022-v2/CLOUD_APP_IOT_KeepYourEndeavor_Moment)
 - GDSC Solution Challenge - [비대면 AI 감독관 스터디 플랫폼](https://github.com/S-gether)
 - SW Maestro Suite - [블록체인 스마트컨트랙트 계약서 기반 스터디 플렛폼](https://github.com/SWM-TheDreaming)
-- ABB Block Chain Makerthon - [대구시청 블록체인 기반 실시간 AED 재고 조사 및 관리자 dApp 개발]()
+- ABB Block Chain Makerthon - [대구시청 블록체인 기반 실시간 AED 재고 조사 및 관리자 dApp 개발](https://github.com/ABB-hack-moment)
 - Tech. Blog - [개발자의 기록장](https://velog.io/@lopahn2)
 
 
