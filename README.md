@@ -1,10 +1,22 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:E34C26,10:DA5B0B,30:C6538C,75:3572A5,100:A371F7&height=100&section=header&text=&fontSize=0" width="100%"/>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Bebas+Neue&size=220&duration=2000&pause=500&color=5594F0&background=FFFFFF00&center=true&vCenter=true&multiline=true&random=false&width=4350&height=700&lines=Anywhere%2C+Anything%2C+Adaptable;Server+Devloper%2C+Pahn+Younghwan)](https://git.io/typing-svg)
+
+<div align = "center">
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lopahn2&layout=donut&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF&count_private=true&hide=javascript,html,css,typescript,dart,python" width=28% />
+</a>    
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=lopahn2&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF&count_private=true" width=41% />
+</a>
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=lopahn2&theme=react-dark&bg_color=20232a&hide_border=true&line=58A6FF&color=58A6FF" width=69.5%/>
+</a>
+
+    
+</div>
 
 
 
-[![Hwany's GitHub stats](https://github-readme-stats.vercel.app/api?username=lopahn2)](https://github.com/lopahn2/github-readme-stats) 
-
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=lopahn2)](https://solved.ac/lopahn2/)
 
 ---
 
@@ -88,4 +100,3 @@
 
 
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:E34C26,10:DA5B0B,30:C6538C,75:3572A5,100:A371F7&height=40&section=footer&text=&fontSize=0" width="100%"/>
