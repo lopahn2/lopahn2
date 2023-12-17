@@ -39,17 +39,6 @@
 #### :trophy: [과학기술정보통신부 주관] OSAM 오픈소스 해커톤 육군참모총장상 ( 23. 09 ~ 23. 12 )
 #### :trophy: [39사단 주관] 해안 경계 디지털 작전 지원 여단장표창 ( 22. 01 )
 
-### I did for my career...
-
-- for CS and Algorithm stydy - [꿈꾸는 개발자의 꿈들](https://hwanywillbe.tistory.com/)
-- for Sharing Posting - [Posting-StudyGroup](https://github.com/posting-study/Hwany_Posting)
-- serving in the Military - [군부대 작전지역 Dashboard](https://hwanywillbe.tistory.com/125?category=888678)
-- Open Source Hackathon - [군장병공개SW 해커톤](https://github.com/osamhack2022-v2/CLOUD_APP_IOT_KeepYourEndeavor_Moment)
-- GDSC Solution Challenge - [비대면 AI 감독관 스터디 플랫폼](https://github.com/S-gether)
-- SW Maestro Suite - [블록체인 스마트컨트랙트 계약서 기반 스터디 플렛폼](https://github.com/SWM-TheDreaming)
-- ABB Block Chain Makerthon - [대구시청 블록체인 기반 실시간 AED 재고 조사 및 관리자 dApp 개발](https://github.com/ABB-hack-moment)
-
-
   
 ---
 
