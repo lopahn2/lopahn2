@@ -44,7 +44,7 @@
 
 ### <p align="left">Tool For Dev</p>
 <p align="left">
-<img alt="Node.js" src="https://img.shields.io/badge/Node.js-ffffff.svg?&style=for-the-badge&logo=Node.js&logoColor=339933"/> <img alt="Spring" src="https://img.shields.io/badge/Spring-ffffff.svg?&style=for-the-badge&logo=Spring&logoColor=6DB33F"/> <img alt="Solidity" src="https://img.shields.io/badge/Solidity-ffffff.svg?&style=for-the-badge&logo=Ethereum&logoColor=363636"/>
+<img alt="Node.js" src="https://img.shields.io/badge/Node.js-ffffff.svg?&style=for-the-badge&logo=Node.js&logoColor=339933"/> <img alt="Spring" src="https://img.shields.io/badge/Spring-ffffff.svg?&style=for-the-badge&logo=Spring&logoColor=6DB33F"/> <img alt="Solidity" src="https://img.shields.io/badge/Solidity-ffffff.svg?&style=for-the-badge&logo=Ethereum&logoColor=363636"/> <img alt="TypeScript" src ="https://img.shields.io/badge/TypeScript-ffffff.svg?&style=for-the-badge&logo=TypeScript&logoColor=#3178C6"/>
 </p>
 
 ### <p align="left">Infra</p>
@@ -60,7 +60,7 @@
 ---
   
 ### <p align="left">Be Studing</p>
-<p align = "left"> <img alt="TypeScript" src ="https://img.shields.io/badge/TypeScript-ffffff.svg?&style=for-the-badge&logo=TypeScript&logoColor=#3178C6"/> <img alt="Go" src ="https://img.shields.io/badge/Go-ffffff.svg?&style=for-the-badge&logo=Go&logoColor=#00ADD8"/> <img alt="Microservices Architecture" src="https://img.shields.io/badge/Microservices%20Architecture-ffffff.svg?&style=for-the-badge"/>
+<p align = "left"> <img alt="Go" src ="https://img.shields.io/badge/Go-ffffff.svg?&style=for-the-badge&logo=Go&logoColor=#00ADD8"/> <img alt="Microservices Architecture" src="https://img.shields.io/badge/Microservices%20Architecture-ffffff.svg?&style=for-the-badge"/>
     <img alt="CQRS" src="https://img.shields.io/badge/CQRS-ffffff.svg?&style=for-the-badge"/></p>
 
   
