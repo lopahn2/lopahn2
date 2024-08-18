@@ -7,7 +7,7 @@
 
 | Title | Org. | Period |
 |--|--|--|
-| **JUNCTION ASIA 2024 `3rd AWARD`** | **POSCO HOLDINGS** | 24.08 |
+| **JUNCTION ASIA 2024 `3rd AWARD`** | **JUNCTION & POSCO HOLDINGS** | 24.08 |
 | **IT 서비스 경진대회 개발부분 `은상`** | **서울과학기술대학교** | 23.12 |
 | **ABB 블록체인 메이커톤 `최우수상`** | **대구시청** | 23.11 |
 | **GDSC Solution Challenge `Global Top 100`** | **Google** | 23.01 ~ 23.03 |
