@@ -52,6 +52,5 @@
  ### 📫 Contact To Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=flat-square)](https://www.linkedin.com/in/%EC%98%81%ED%99%98-%EB%B0%98-365008261/) [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white&style=flat-square)](mailto:lopahn2@gmail.com)
-![Location](https://img.shields.io/badge/Location-Seoul%2C_Korea-ff69b4?style=flat-square)
 
  </div>
