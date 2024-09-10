@@ -1,7 +1,19 @@
 
+
 <div align = "center">
 
+
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Bebas+Neue&size=220&duration=2000&pause=500&color=5594F0&background=FFFFFF00&center=true&vCenter=true&multiline=true&random=false&width=4350&height=700&lines=Anywhere%2C+Anything%2C+Adaptable;Server+Devloper%2C+Pahn+Younghwan)](https://git.io/typing-svg)
+
+<a href="https://github.com/lopahn2/lopahn2/raw/main/assets/%E1%84%87%E1%85%A1%E1%86%AB%E1%84%8B%E1%85%A7%E1%86%BC%E1%84%92%E1%85%AA%E1%86%AB%20%E1%84%8B%E1%85%B5%E1%84%85%E1%85%A7%E1%86%A8%E1%84%89%E1%85%A5.pdf" target="_blank">
+    <img src="https://img.shields.io/badge/Resume-Click%20Here-green?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Resume Badge">
+</a>
+<a href="https://github.com/lopahn2/lopahn2/raw/main/assets/%E1%84%87%E1%85%A1%E1%86%AB%E1%84%8B%E1%85%A7%E1%86%BC%E1%84%92%E1%85%AA%E1%86%AB%20%E1%84%91%E1%85%A9%E1%84%90%E1%85%B3%E1%84%91%E1%85%A9%E1%86%AF%E1%84%85%E1%85%B5%E1%84%8B%E1%85%A9.pdf" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-View%20Portfolio-blue?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio Badge">
+</a>
+  
+
 
 ## :trophy: Awards
 
@@ -51,6 +63,4 @@
  
  ### 📫 Contact To Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=flat-square)](https://www.linkedin.com/in/%EC%98%81%ED%99%98-%EB%B0%98-365008261/) [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white&style=flat-square)](mailto:lopahn2@gmail.com)
-
- </div>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=flat-square)](https://www.linkedin.com/in/%EC%98%81%ED%99%98-%EB%B0%98-365008261/) [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white&style=flat-square)](mailto:lopahn2@gmail.com) ![Viewer](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/lopahn2)
