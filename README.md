@@ -1,5 +1,6 @@
 
 
+
 <div align = "center">
 
 
@@ -27,10 +28,13 @@
 | **해안 경계 디지털 작전 지원 `여단장표창`** | **39사단** | 22.01 |
 
 ## 📜 Certifiacation
+<div align="left">
 
 > **[🐳](https://www.credly.com/badges/bb13b90a-45d2-4f01-ba7c->c96e790fc266/linked_in_profile) CKAD: Certified Kubernetes Application Developer** <br>
 > **The Linux Foundation**  Issued: 2024. 09 · Expired: 2026. 09  
 > ID: `LF-nsgtqy18wu`
+> 
+</div>
 
 ## :necktie: Who am I in career
 | Org. | Description | Period |
