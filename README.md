@@ -44,6 +44,7 @@
 ## :necktie: Who am I in career
 | Org. | Description | Period |
 |--|--|--|
+| **SAMSUNG SDS** | SAMSUNG SDS Software Engineer | 25.01 ~ |
 | **SAMSUNG SDS Internship** | SAMSUNG SDS 통합 Mgmt Appl Svc. 팀 인턴 수료 | 24.07 ~ 24.08 |
 | **Software Maestro 14th** | 과학기술정보통신부 주관 소프트웨어 인재 발굴 프로그램 | 23.03 ~ 23.12 |
 | **Architecture on AWS Education** | AWS 주관 VPC to EKS 클라우드 서비스 교육 프로그램 | 23.07 |
