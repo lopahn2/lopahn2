@@ -20,6 +20,7 @@
 
 | Title | Org. | Period |
 |--|--|--|
+| **Capstone Design `금상`** | **서울과학기술대학교** | 24.11 |
 | **JUNCTION ASIA 2024 `3rd AWARD`** | **JUNCTION & POSCO HOLDINGS** | 24.08 |
 | **IT 서비스 경진대회 개발부분 `은상`** | **서울과학기술대학교** | 23.12 |
 | **ABB 블록체인 메이커톤 `최우수상`** | **대구시청** | 23.11 |
