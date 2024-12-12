@@ -49,7 +49,6 @@
 | **Software Maestro 14th** | 과학기술정보통신부 주관 소프트웨어 인재 발굴 프로그램 | 23.03 ~ 23.12 |
 | **Architecture on AWS Education** | AWS 주관 VPC to EKS 클라우드 서비스 교육 프로그램 | 23.07 |
 | **Design Thinking - SAP App Haus** | SAP App Hasu 주관 Design Thinking 교육 수료 | 23.05 |
-| **Codeit! 대학생 코딩캠프** | Codeit! 주관 대학생 온라인 코딩 캠프 교육 수료 | 20.09 |
 ### 🔧 Main Tech Stack
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white&style=for-the-badge) ![EKS](https://img.shields.io/badge/Amazon%20EKS-FF9900?logo=amazon-eks&logoColor=white&style=for-the-badge) ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge) ![ECR](https://img.shields.io/badge/Amazon%20ECR-FF9900?logo=amazon-aws&logoColor=white&style=for-the-badge)
   
