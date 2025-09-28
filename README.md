@@ -10,7 +10,7 @@
 <a href="https://github.com/lopahn2/lopahn2/raw/refs/heads/main/assets/%E1%84%87%E1%85%A1%E1%86%AB%E1%84%8B%E1%85%A7%E1%86%BC%E1%84%92%E1%85%AA%E1%86%AB%20%EC%9D%B4%EB%A0%A5%EC%84%9C.pdf" target="_blank">
     <img src="https://img.shields.io/badge/Resume-Click%20Here-green?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Resume Badge">
 </a>
-<a href="assets/반영환 포트폴리오.pdf" target="_blank">
+<a href="https://github.com/lopahn2/lopahn2/raw/refs/heads/main/assets/%E1%84%87%E1%85%A1%E1%86%AB%E1%84%8B%E1%85%A7%E1%86%BC%E1%84%92%E1%85%AA%E1%86%AB%20%E1%84%91%E1%85%A9%E1%84%90%E1%85%B3%E1%84%91%E1%85%A9%E1%86%AF%E1%84%85%E1%85%B5%E1%84%8B%E1%85%A9.pdf" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-View%20Portfolio-blue?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio Badge">
 </a>
   
