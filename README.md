@@ -7,7 +7,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Bebas+Neue&size=220&duration=2000&pause=500&color=5594F0&background=FFFFFF00&center=true&vCenter=true&multiline=true&random=false&width=4350&height=700&lines=Anywhere%2C+Anything%2C+Adaptable;Server+Devloper%2C+Pahn+Younghwan)](https://git.io/typing-svg)
 
-<a href="assets/반영환 이력서.pdf" target="_blank">
+<a href="https://github.com/lopahn2/lopahn2/raw/refs/heads/main/assets/%E1%84%87%E1%85%A1%E1%86%AB%E1%84%8B%E1%85%A7%E1%86%BC%E1%84%92%E1%85%AA%E1%86%AB%20%EC%9D%B4%EB%A0%A5%EC%84%9C.pdf" target="_blank">
     <img src="https://img.shields.io/badge/Resume-Click%20Here-green?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Resume Badge">
 </a>
 <a href="assets/반영환 포트폴리오.pdf" target="_blank">
